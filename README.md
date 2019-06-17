@@ -8,4 +8,4 @@ The provided report is equivalent to documentation.
 
 - The code is very modular and creates a classifier from scratch; it does not use ready-made or provided functions/libraries.
 
-- Resources were too many to directly upload, so they were zipped. Make sure to unzip them before use.
+- Images were too many to directly upload, so they were zipped. Make sure to unzip them before use.
