@@ -4,10 +4,14 @@ The provided report is equivalent to documentation.
 
 - Images are GIFs, and they only have black shapes against a white background.
 
-- The code is very modular and creates a classifier from scratch; it does not use ready-made or provided functions/libraries.
-
-- Images were too many to directly upload, so they were zipped. Make sure to unzip them before use.
+- The code is modular and creates a classifier from scratch; it does not use ready-made or provided functions/libraries.
 
 # Setup and use
 
-- Only MATLAB is required; there are no dependencies.
+- Images were too many to directly upload, so they had to be zipped. Simply unzip 'images' and place the folder in the same directory as the code.
+
+- Only MATLAB is required; simply download it and immediately use the code.
+
+- Function train() is the main one to run the classifier. 
+
+- Use test() to run the classifier and test it's accuracy using a confusion matrix. Additionally, the function can be used as an example of use.
