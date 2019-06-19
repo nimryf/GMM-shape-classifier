@@ -12,6 +12,6 @@ The provided report is equivalent to documentation.
 
 - Only MATLAB is required; simply download it and immediately test the code.
 
-- Function train() is the main one to run the classifier. 
+- Function _train()_ is the main one to run the classifier. 
 
-- Use test() to run the classifier and test it's accuracy using a confusion matrix. Additionally, the function can be used as an example of use.
+- Use _test()_ to run the classifier and test it's accuracy using a confusion matrix. Additionally, the function can be used as an example of use.
