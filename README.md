@@ -8,9 +8,9 @@ The provided report is equivalent to documentation.
 
 # Setup and use
 
-- Images were too many to directly upload, so they had to be zipped. Simply unzip 'images' and place the folder in the same directory as the code.
+- Images were too many to directly upload, so they had to be zipped. Simply unzip 'images' and place the inner folder in the same directory as the code.
 
-- Only MATLAB is required; simply download it and immediately use the code.
+- Only MATLAB is required; simply download it and immediately test the code.
 
 - Function train() is the main one to run the classifier. 
 
